@@ -159,16 +159,16 @@ Ressources: [**Page web**](https://github.com/)
 ### 1. Clustering
 ### 2. Réduction de la dimensionnalité
 
-### III. Machine Learning : par Renforcement
+## III. Machine Learning : par Renforcement
 
-### IV. Deep Learning
+## IV. Deep Learning
 - PyTorch
 
-### V. Réseaux de neurones
+## V. Réseaux de neurones
 - TensorFlow
 - Keras
 
-### VI. Choix de la métrique
+## VI. Choix de la métrique
 - Recall
 - Precision
 - Accuracy
