@@ -1,6 +1,7 @@
 #  --- FORMATION DEVELOPPEUR EN INTELLIGENCE ARTIFICIELLE ---
 
-<center>
+<p align="center">
+
 **SOMMAIRE**
 
 - [A. Gestion de projet](#GestionDeProjet)
@@ -29,7 +30,7 @@
 
 - [M. Métiers de la Data ](#Job)
 
-</center>
+</p align="center">
 
 ***
 
