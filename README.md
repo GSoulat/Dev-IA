@@ -1,5 +1,10 @@
 #  --- FORMATION DEVELOPPEUR EN INTELLIGENCE ARTIFICIELLE ---
 
+SOMMAIRE
+
+[lien afficher](#nomAncre)
+
+
 ***
 
 # A. GESTION DE PROJET
@@ -62,7 +67,7 @@ Ressources: [**Page web**](https://github.com/)
 ### 4. Extensions utiles
 ### 5. Jupyter Notebook
 
-## III. Python
+## III. Python <a id="nomAncre"></a>
 ### 1. Les bases
 ### 2. Les tests
 - pytest
