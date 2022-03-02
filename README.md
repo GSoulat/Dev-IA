@@ -2,7 +2,9 @@
 
 <div align="center">
 
-**SOMMAIRE**
+## **SOMMAIRE**
+
+</div>
 
 - [A. Gestion de projet](#GestionDeProjet)
 
@@ -30,7 +32,6 @@
 
 - [M. Métiers de la Data ](#Job)
 
-</div>
 
 ***
 
