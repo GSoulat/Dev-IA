@@ -1,6 +1,6 @@
 #  --- FORMATION DEVELOPPEUR EN INTELLIGENCE ARTIFICIELLE ---
 
-<text-align="center">
+<div align="center">
 
 **SOMMAIRE**
 
@@ -30,7 +30,7 @@
 
 - [M. Métiers de la Data ](#Job)
 
-</text-align="center">
+</div>
 
 ***
 
