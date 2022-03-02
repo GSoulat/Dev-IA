@@ -23,6 +23,8 @@ Ressources: [**Page web**](https://github.com/)
 Site pour faire des user stories...
 
 ### Draw.io
+Ressources: [**Page web**](https://github.com/)
+
 <br clear="left"/>
 
 <img align="right" src="/img/kanban.png" width=450>
