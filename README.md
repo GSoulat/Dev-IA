@@ -16,11 +16,13 @@ Ressources: [**Cours Simplon**](https://github.com/)
 
 <img align="left" src="/img/miro.png" width=450>
 
-## I. User Stories
+## I. User Stories / UML (Unified Modeling Langage)
 ### Miro
 Ressources: [**Page web**](https://github.com/)
 
 Site pour faire des user stories...
+
+### Draw.io
 <br clear="left"/>
 
 ## II. Kanban
@@ -33,14 +35,48 @@ Site pour faire des user stories...
 ## IV. Versionning
 ### GitHub
 
+# V. CI/CD
+
 ***
 
-# B. Récupération de données
-## I. Scraping
+# B. Les fondamentaux
+
+## I. Terminal et système d'exploitation
+### 1. Windows
+### 2. Linux
+### 3. MacOS
+
+## II. Environnement de développement
+### 1. VSCode
+### 2. Anaconda
+### 3. conda / venv / pip
+### 4. Extensions utiles
+### 5. Jupyter Notebook
+
+## III. Python
+### 1. Les bases
+### 2. Les tests
+- pytest
+- unitest
+- Selenium
+### 3. Faire un jeu avec pygame
+
+## IV. Mathématiques
+### 1. Etudes de fonction
+### 2. Vecteurs et matrices
+### 3. Statistiques et probabilités
+
+***
+
+# C. Récupération de données
+## I. Scraping 
+### 0. Bases du HMTL/CSS
 ### 1. BeautifulSoup
 ### 2. Scrapy
-### 3. Scrapy Splash
-### 4. Selenium
+### 3. Selenium
+### 4. Scrapy Splash 
+- Lua
+- Javascript
 
 ## II. SQL - Bases de données relationnelles
 ### 1. Langage SQL
@@ -50,10 +86,11 @@ Site pour faire des user stories...
 
 ## III. NoSQL - Bases de données non-relationnelles
 ### 1. MongoDB & pymongo
+### 2. ElasticSearch
 
 ***
 
-# C. Manipulation et nettoyage des données
+# D. Manipulation et nettoyage des données
 ## I. Technologies
 ### 1. Numpy
 ### 2. Pandas
@@ -72,7 +109,7 @@ Site pour faire des user stories...
 
 ***
 
-# D. Exploration des données
+# E. Exploration des données
 ## I. Technologies
 ### 1. Matplotlib
 ### 2. Seaborn
@@ -92,7 +129,7 @@ Site pour faire des user stories...
 
 ***
 
-# E. Choix du modèle / Choix de la métrique
+# F. Choix du modèle / Choix de la métrique
 ## 0. Notions
 ### 1. Régularisation
 ### 2. Bagging / Stacking / Boosting / Bootstraping
@@ -100,7 +137,14 @@ Site pour faire des user stories...
 
 ## I. Machine Learning : Supervisé
 ### 1. Régression
+- Régression linéaire
+- Régression logistique
 ### 2. Classification
+- K-NN
+- RandomForest
+- XGBoost
+- NaiveBayes
+- SVC
 
 ## II. Machine Learning : Non-supervisé
 ### 1. Clustering
@@ -109,32 +153,54 @@ Site pour faire des user stories...
 ### III. Machine Learning : par Renforcement
 
 ### IV. Deep Learning
+- PyTorch
 
 ### V. Réseaux de neurones
+- TensorFlow
+- Keras
 
 ### VI. Choix de la métrique
+- Recall
+- Precision
+- Accuracy
+- F1 Score
+- AUC
 
 ***
 
-# F. Preprocessing
+# G. Preprocessing
 ## I. Sélection des variables
 ## II. Imputation
 ## III. Encodage
+- LabelBinarizer
+- LabelEncoder
+- MultiLabelBinarizer
+- OneHotEncoder / get_dummies
+- OrdinalEncoder
+- 
 ## IV. Normalisation et Standardisation
+- MinMaxScaler
+- RobustScaler
+- StandardScaler
+- 
 ## V. Feature Engineering
 ## VI. Pipeline
 
 ***
 
-# G. Division jeu de données
+# H. Division jeu de données
 
 ***
 
-# H. Apprentissage & GridSearchCV
+# I. Apprentissage & GridSearchCV
+
+- StatsModels (modèles de base / modèles ARIMA)
+- MLFlow
+- pycaret
 
 ***
 
-# I. Evaluation et interprétation
+# J. Evaluation et interprétation
 ## I. Comprendre et expliquer son modèle
 ## II. SHAP
 ## III. LIME
@@ -143,15 +209,16 @@ Site pour faire des user stories...
 
 ***
 
-# J. Mise en production
+# K. Mise en production
 ## I. Microsoft Azure
 ## II. AWS ( Amazon Web Services )
 ## III. Google Cloud Platform
 
 ***
 
-# H. API et appli web
+# L. API et appli web
 ## I. ORM (Object Relationnal Mapping)
+### 1. SQLAlchemy
 ## II. Database Connector
 ## III. Framework
 ### 1. Streamlit
@@ -165,30 +232,26 @@ Site pour faire des user stories...
 
 ***
 
-# Autres à voir ? 
+# M. Ressources métiers
+## I. Les métiers de la Data
+### 1. Data Analyst
+### 2. Data Engineer
+### 3. Data Scientist
 
-## Système d'exploitation
-- Windows
-- Linux
-- MacOS
+## II. CV / Lettres de motivation / Linkedin
 
-## Environnement 
-- VS Code
-- PyCharm
-- Atom
-- Anaconda
-- conda / venv / pip
+***
 
-## Focus sur les métiers de la data
+# Techno à compléter/intégrer 
 
 ## Data Engineer
-- Base de données : ElasticSearch / Neo4j
+- Neo4j
 - BIG DATA : Hadoop / Hive - Hbase - Spark
 - Airflow / Kubernetes
 - BIG DATA Vitesse : Architecture de streaming / Kafka / Spark streaming
+- BigQuery
 
 ## Data Scientist 
-- MLFlow / Statsmodels (modèles de base / modèles ARIMA)
 - Text Mining : introduction aux expressions régulières / gestion de données textuelles / création d'un WordCloud
 - NetworkX : introduction à la théorie des graphes / application des algorithmes fondamentaux : Krustal & Dijkstra / Détection de communautés / Algo PageRank
 - PySpark :... Model Turning
