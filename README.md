@@ -25,17 +25,23 @@ Site pour faire des user stories...
 ### Draw.io
 <br clear="left"/>
 
+<img align="right" src="/img/kanban.png" width=450>
 ## II. Kanban
 ### Trello
+Ressources: [**Page web**](https://github.com/)
 ### Jira
+Ressources: [**Page web**](https://github.com/)
 ### Asana
+Ressources: [**Page web**](https://github.com/)
+
+<br clear="right"/>
 
 ## III. Diagramme de Gantt / Roadmap
 
 ## IV. Versionning
 ### GitHub
 
-# V. CI/CD
+## V. CI/CD
 
 ***
 
