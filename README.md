@@ -1,11 +1,27 @@
-# MACHINE LEARNING
+# FORMATION DEVELOPPEUR EN INTELLIGENCE ARTIFICIELLE
 
 ***
 
 # A. GESTION DE PROJET
+
+***
+<img align="right" src="/img/agile.png" width=450>
+
 ## 0. Méthode AGILE
+Ressources: [**Cours Simplon**](https://github.com/)
+
+- **scrum**: blablabla
+- **autre**: blablabla
+<br clear="right"/>
+
+<img align="left" src="/readme_assets/s_as_select.png" width=450>
+
 ## I. User Stories
 ### Miro
+Ressources: [**Page web**](https://github.com/)
+
+Site pour faire des user stories...
+<br clear="left"/>
 
 ## II. Kanban
 ### Trello
