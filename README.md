@@ -1,18 +1,32 @@
 #  --- FORMATION DEVELOPPEUR EN INTELLIGENCE ARTIFICIELLE ---
 
-SOMMAIRE
+**SOMMAIRE**
 
-[A. Gestion de projet](#GestionDeProjet)
+- [A. Gestion de projet](#GestionDeProjet)
 
-[B. Les fondamentaux](#Fondamentaux)
+- [B. Les fondamentaux](#Fondamentaux)
 
-[C. Récupération de données ](#Recuperation)
+- [C. Récupération de données ](#Recuperation)
 
-[D. Manipulation et nettoyage des données ](#Recuperation)
+- [D. Manipulation et nettoyage des données ](#Cleaning)
 
-[E. Exploration de données ](#Exploration)
+- [E. Exploration de données ](#Exploration)
 
-[F. Choix modèle / Choix métrique ](#Modelisation)
+- [F. Choix du modèle / Choix de la métrique ](#Modelisation)
+
+- [G. Preprocessing ](#Preprocessing)
+
+- [H. Division du jeu de données](#Division)
+
+- [I. Apprentissage et GridSearchCV](#Apprentissage)
+
+- [J. Evaluation et interprétation ](#Evaluation)
+
+- [K. Mise en production ](#Production)
+
+- [L. API et appli web](#Web)
+
+- [M. Métiers de la Data ](#Job)
 
 
 
@@ -193,7 +207,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# G. Preprocessing
+# G. Preprocessing <a id="Preprocessing"></a>
 ## I. Sélection des variables
 ## II. Imputation
 ## III. Encodage
@@ -213,11 +227,11 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# H. Division jeu de données
+# H. Division jeu de données <a id="Division"></a>
 
 ***
 
-# I. Apprentissage & GridSearchCV
+# I. Apprentissage & GridSearchCV <a id="Apprentissage"></a>
 
 - StatsModels (modèles de base / modèles ARIMA)
 - MLFlow
@@ -225,7 +239,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# J. Evaluation et interprétation
+# J. Evaluation et interprétation <a id="Evaluation"></a>
 ## I. Comprendre et expliquer son modèle
 ## II. SHAP
 ## III. LIME
@@ -234,14 +248,14 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# K. Mise en production
+# K. Mise en production <a id="Production"></a>
 ## I. Microsoft Azure
 ## II. AWS ( Amazon Web Services )
 ## III. Google Cloud Platform
 
 ***
 
-# L. API et appli web
+# L. API et appli web <a id="Web"></a>
 ## I. ORM (Object Relationnal Mapping)
 ### 1. SQLAlchemy
 ## II. Database Connector
@@ -257,7 +271,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# M. Ressources métiers
+# M. Ressources métiers <a id="Job"></a>
 ## I. Les métiers de la Data
 ### 1. Data Analyst
 ### 2. Data Engineer
