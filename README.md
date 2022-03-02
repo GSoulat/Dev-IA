@@ -26,6 +26,7 @@ Site pour faire des user stories...
 <br clear="left"/>
 
 <img align="right" src="/img/kanban.png" width=450>
+
 ## II. Kanban
 ### Trello
 Ressources: [**Page web**](https://github.com/)
