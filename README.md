@@ -3,8 +3,16 @@
 SOMMAIRE
 
 [A. Gestion de projet](#GestionDeProjet)
+
 [B. Les fondamentaux](#Fondamentaux)
+
 [C. Récupération de données ](#Recuperation)
+
+[D. Manipulation et nettoyage des données ](#Recuperation)
+
+[E. Exploration de données ](#Exploration)
+
+[F. Choix modèle / Choix métrique ](#Modelisation)
 
 
 
@@ -107,7 +115,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# D. Manipulation et nettoyage des données
+# D. Manipulation et nettoyage des données <a id="Cleaning"></a>
 ## I. Technologies
 ### 1. Numpy
 ### 2. Pandas
@@ -126,7 +134,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# E. Exploration des données
+# E. Exploration des données <a id="Exploration"></a>
 ## I. Technologies
 ### 1. Matplotlib
 ### 2. Seaborn
@@ -146,7 +154,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# F. Choix du modèle / Choix de la métrique
+# F. Choix du modèle / Choix de la métrique <a id="Modelisation"></a>
 ## 0. Notions
 ### 1. Régularisation
 ### 2. Bagging / Stacking / Boosting / Bootstraping
