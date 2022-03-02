@@ -14,7 +14,7 @@ Ressources: [**Cours Simplon**](https://github.com/)
 - **autre**: blablabla
 <br clear="right"/>
 
-<img align="left" src="/readme_assets/s_as_select.png" width=450>
+<img align="left" src="/img/miro.png" width=450>
 
 ## I. User Stories
 ### Miro
