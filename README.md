@@ -30,14 +30,13 @@
 
 - [L. API et appli web](#Web)
 
-- [M. Métiers de la Data ](#Job)
+- [M. Ressources métiers ](#Job)
 
 
 ***
 
 # A. GESTION DE PROJET <a id="GestionDeProjet"></a>
 
-***
 <img align="right" src="/img/agile.png" width=450>
 
 ## 0. Méthode AGILE
