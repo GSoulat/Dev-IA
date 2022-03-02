@@ -2,12 +2,15 @@
 
 SOMMAIRE
 
-[lien afficher](#nomAncre)
+[A. Gestion de projet](#GestionDeProjet)
+[B. Les fondamentaux](#Fondamentaux)
+[C. Récupération de données ](#Recuperation)
+
 
 
 ***
 
-# A. GESTION DE PROJET
+# A. GESTION DE PROJET <a id="GestionDeProjet"></a>
 
 ***
 <img align="right" src="/img/agile.png" width=450>
@@ -53,7 +56,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# B. Les fondamentaux
+# B. Les fondamentaux <a id="Fondamentaux"></a>
 
 ## I. Terminal et système d'exploitation
 ### 1. Windows
@@ -67,7 +70,7 @@ Ressources: [**Page web**](https://github.com/)
 ### 4. Extensions utiles
 ### 5. Jupyter Notebook
 
-## III. Python <a id="nomAncre"></a>
+## III. Python 
 ### 1. Les bases
 ### 2. Les tests
 - pytest
@@ -82,7 +85,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# C. Récupération de données
+# C. Récupération de données <a id="Recuperation"></a>
 ## I. Scraping 
 ### 0. Bases du HMTL/CSS
 ### 1. BeautifulSoup
