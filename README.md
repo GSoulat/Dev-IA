@@ -13,7 +13,7 @@
 
 - [D. Manipulation et nettoyage des données ](#Cleaning)
 
-- [E. Exploration de données ](#Exploration)
+- [E. Exploration de données / Visualisations ](#Exploration)
 
 - [F. Choix du modèle / Choix de la métrique ](#Modelisation)
 
@@ -157,8 +157,8 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# E. EXPLORATION DES DONNEES <a id="Exploration"></a>
-## I. Technologies
+# E. EXPLORATION DES DONNEES ET VISUALISATIONS <a id="Exploration"></a>
+## I. Technologies de visualisation
 ### 1. Matplotlib
 ### 2. Seaborn
 ### 3. Plotly
