@@ -1,8 +1,9 @@
-<div align="center">
   
 #  --- FORMATION DEVELOPPEUR EN INTELLIGENCE ARTIFICIELLE ---
 
-## **SOMMAIRE**
+<div align="center">
+
+# **SOMMAIRE**
 
 </div>
 
