@@ -46,7 +46,7 @@ Ressources: [**Cours Simplon**](https://github.com/)
 - **autre**: blablabla
 <br clear="right"/>
 
-<img align="left" src="/img/miro.png" width=450>
+<img align="left" src="/img/uml.jpg" width=450>
 
 ## I. User Stories / UML (Unified Modeling Langage)
 ### Miro
