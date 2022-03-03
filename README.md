@@ -46,7 +46,7 @@ Ressources: [**Cours Simplon**](https://github.com/)
 - **autre**: blablabla
 <br clear="right"/>
 
-<img align="left" src="/img/uml.jpg" width=450>
+<img align="right" src="/img/uml.jpg" width=450>
 
 ## I. User Stories / UML (Unified Modeling Langage)
 ### Miro
@@ -57,7 +57,7 @@ Site pour faire des user stories...
 ### Draw.io
 Ressources: [**Page web**](https://github.com/)
 
-<br clear="left"/>
+<br clear="right"/>
 
 <img align="right" src="/img/kanban.jpg" width=450>
 
