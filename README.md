@@ -59,7 +59,7 @@ Ressources: [**Page web**](https://github.com/)
 
 <br clear="left"/>
 
-<img align="right" src="/img/kanban.png" width=450>
+<img align="right" src="/img/kanban.jpg" width=450>
 
 ## II. Kanban
 ### Trello
