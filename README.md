@@ -50,7 +50,7 @@ Ressources: [**Cours Simplon**](https://github.com/)
 
 ## I. User Stories / UML (Unified Modeling Langage)
 ### Miro
-Ressources: [**Page web**](https://github.com/)
+Ressources: [**Tuto vidéo**](https://www.youtube.com/watch?v=nL6PzwKC9Qc)
 
 Site pour faire des user stories...
 
@@ -111,7 +111,7 @@ Ressources: [**Page web**](https://github.com/)
 
 # C. Récupération de données <a id="Recuperation"></a>
 ## I. Scraping 
-### 0. Bases du HMTL/CSS
+### 0. Bases du HTML/CSS
 ### 1. BeautifulSoup
 ### 2. Scrapy
 ### 3. Selenium
