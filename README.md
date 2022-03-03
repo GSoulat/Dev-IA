@@ -87,7 +87,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# B. Les fondamentaux <a id="Fondamentaux"></a>
+# B. LES FONDAMENTAUX <a id="Fondamentaux"></a>
 
 ## I. Terminal et système d'exploitation
 ### 1. Windows
@@ -116,7 +116,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# C. Récupération de données <a id="Recuperation"></a>
+# C. RECUPERATION DE DONNEES <a id="Recuperation"></a>
 ## I. Scraping 
 ### 0. Bases du HTML/CSS
 ### 1. BeautifulSoup
@@ -138,7 +138,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# D. Manipulation et nettoyage des données <a id="Cleaning"></a>
+# D. MANIPULATION ET NETTOYAGE DE DONNEES <a id="Cleaning"></a>
 ## I. Technologies
 ### 1. Numpy
 ### 2. Pandas
@@ -157,7 +157,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# E. Exploration des données <a id="Exploration"></a>
+# E. EXPLORATION DES DONNEES <a id="Exploration"></a>
 ## I. Technologies
 ### 1. Matplotlib
 ### 2. Seaborn
@@ -177,7 +177,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# F. Choix du modèle / Choix de la métrique <a id="Modelisation"></a>
+# F. CHOIX DU MODELE - CHOIX DE LA METRIQUE <a id="Modelisation"></a>
 ## 0. Notions
 ### 1. Régularisation
 ### 2. Bagging / Stacking / Boosting / Bootstraping
@@ -216,7 +216,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# G. Preprocessing <a id="Preprocessing"></a>
+# G. PREPROCESSING <a id="Preprocessing"></a>
 ## I. Sélection des variables
 ## II. Imputation
 ## III. Encodage
@@ -236,11 +236,11 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# H. Division jeu de données <a id="Division"></a>
+# H. DIVISION DU JEU DE DONNEES <a id="Division"></a>
 
 ***
 
-# I. Apprentissage & GridSearchCV <a id="Apprentissage"></a>
+# I. APPRENTISSAGE & GRIDSEARCHCV <a id="Apprentissage"></a>
 
 - StatsModels (modèles de base / modèles ARIMA)
 - MLFlow
@@ -248,7 +248,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# J. Evaluation et interprétation <a id="Evaluation"></a>
+# J. EVALUATION ET INTERPRETATION <a id="Evaluation"></a>
 ## I. Comprendre et expliquer son modèle
 ## II. SHAP
 ## III. LIME
@@ -257,14 +257,14 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# K. Mise en production <a id="Production"></a>
+# K. MISE EN PRODUCTION <a id="Production"></a>
 ## I. Microsoft Azure
 ## II. AWS ( Amazon Web Services )
 ## III. Google Cloud Platform
 
 ***
 
-# L. API et appli web <a id="Web"></a>
+# L. API & APPLI WEB <a id="Web"></a>
 ## I. ORM (Object Relationnal Mapping)
 ### 1. SQLAlchemy
 ## II. Database Connector
@@ -280,7 +280,7 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# M. Ressources métiers <a id="Job"></a>
+# M. RESSOURCES METIERS <a id="Job"></a>
 ## I. Les métiers de la Data
 ### 1. Data Analyst
 ### 2. Data Engineer
