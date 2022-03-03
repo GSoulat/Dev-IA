@@ -50,7 +50,7 @@ Ressources: [**Cours Simplon**](https://github.com/)
 
 ## I. User Stories / UML (Unified Modeling Langage)
 ### Miro
-Ressources: [**Tuto vidéo**](https://www.youtube.com/watch?v=nL6PzwKC9Qc" target="_blank)
+Ressources: [**Tuto vidéo**](https://www.youtube.com/watch?v=nL6PzwKC9Qc target="_blank")
 
 Site pour faire des user stories...
 
