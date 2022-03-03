@@ -37,6 +37,8 @@
 
 # A. GESTION DE PROJET <a id="GestionDeProjet"></a>
 
+***
+
 <img align="right" src="/img/agile.png" width=450>
 
 ## 0. Méthode AGILE
@@ -45,6 +47,8 @@ Ressources: [**Cours Simplon**](https://github.com/)
 - **scrum**: blablabla
 - **autre**: blablabla
 <br clear="right"/>
+
+***
 
 <img align="right" src="/img/uml.jpg" width=450>
 
@@ -59,6 +63,8 @@ Ressources: [**Page web**](https://github.com/)
 
 <br clear="right"/>
 
+***
+
 <img align="right" src="/img/kanban.jpg" width=450>
 
 ## II. Kanban
@@ -70,6 +76,8 @@ Ressources: [**Page web**](https://github.com/)
 Ressources: [**Page web**](https://github.com/)
 
 <br clear="right"/>
+
+***
 
 ## III. Diagramme de Gantt / Roadmap
 
