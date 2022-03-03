@@ -7,9 +7,9 @@
 
 - [A. Gestion de projet](#GestionDeProjet)
 
-- [B. Les fondamentaux](#Fondamentaux)
+- [B. Les fondamentaux (IDE, Python, Maths)](#Fondamentaux)
 
-- [C. Récupération de données ](#Recuperation)
+- [C. Récupération de données (Scraping, SQL, NoSQL) ](#Recuperation)
 
 - [D. Manipulation et nettoyage des données ](#Cleaning)
 
