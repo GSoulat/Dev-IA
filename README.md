@@ -1,9 +1,7 @@
-  
-#  FORMATION DEVELOPPEUR IA
-
+ 
 <div align="center">
 
-# SOMMAIRE
+# FORMATION DEV IA  - SOMMAIRE
 
 </div>
 
