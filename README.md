@@ -180,7 +180,7 @@ Ressources: [**Page web**](https://github.com/)
 # F. CHOIX DU MODELE - CHOIX DE LA METRIQUE <a id="Modelisation"></a>
 ## 0. Notions
 ### 1. Régularisation
-### 2. Bagging / Stacking / Boosting / Bootstraping
+### 2. Bagging / Voting / Stacking / Boosting / Bootstraping
 ### 3. Scikit-learn
 
 ## I. Machine Learning : Supervisé
