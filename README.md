@@ -7,30 +7,17 @@
 
 - [A. Gestion de projet](#GestionDeProjet)
 
-- [B. Les fondamentaux (IDE, Python, Maths)](#Fondamentaux)
+- [B. Prgrammation](#Fondamentaux)
 
-- [C. Récupération de données (Scraping, SQL, NoSQL) ](#Recuperation)
+- [C. Base de données](#Recuperation)
 
-- [D. Manipulation et nettoyage des données ](#Cleaning)
+- [D. Machine Learning](#Cleaning)
 
-- [E. Exploration de données / Visualisations ](#Exploration)
-
-- [F. Choix du modèle / Choix de la métrique ](#Modelisation)
-
-- [G. Preprocessing ](#Preprocessing)
-
-- [H. Division du jeu de données](#Division)
-
-- [I. Apprentissage et GridSearchCV](#Apprentissage)
-
-- [J. Evaluation et interprétation ](#Evaluation)
-
-- [K. Mise en production ](#Production)
-
-- [L. API et appli web](#Web)
+- [E. Deep Learning](#Exploration)
 
 - [M. Ressources métiers ](#Job)
 
+- [Z. Exercice ](#Job)
 
 ***
 
@@ -51,7 +38,7 @@ Ressources: [**Cours Simplon**](https://github.com/)
 
 <img align="right" src="/img/uml.jpg" width=450>
 
-## I. User Stories / UML (Unified Modeling Langage)
+## I. User Stories 
 ### Miro
 Ressources: [**Tuto vidéo**](https://www.youtube.com/watch?v=nL6PzwKC9Qc)
 
@@ -60,39 +47,63 @@ Site pour faire des user stories...
 ### Draw.io
 Ressources: [**Page web**](https://github.com/)
 
+
 <br clear="right"/>
 
 ***
 
+<img align="right" src="/img/uml.jpg" width=450>
+
+## II. UML (Unified Modeling Langage)
+### Miro
+Ressources: [**Tuto vidéo**](https://www.youtube.com/watch?v=nL6PzwKC9Qc)
+
+Site pour faire des user stories...
+
+### Draw.io
+Ressources: [**Page web**](https://github.com/)
+
+
+<br clear="right"/>
+
+***
+<!-- <img align="right" src="/img/uml.jpg" width=450> -->
+
+## III. Diagramme de classe 
+### Looping
+
+
+<br clear="right"/>
+
+***
 <img align="right" src="/img/kanban.jpg" width=450>
 
-## II. Kanban
+## IV. Kanban
 ### Trello
 Ressources: [**Page web**](https://github.com/)
 ### Jira
 Ressources: [**Page web**](https://github.com/)
 ### Asana
 Ressources: [**Page web**](https://github.com/)
+### Github Porject
+Ressources: [**Page web**](https://github.com/)
 
 <br clear="right"/>
 
 ***
 
-## III. Diagramme de Gantt / Roadmap
-
-## IV. Versionning
-### GitHub
-
-## V. CI/CD
+## V. Diagramme de Gantt / Roadmap
 
 ***
 
-# B. LES FONDAMENTAUX <a id="Fondamentaux"></a>
+# B. PROGRAMMATION - LES BASICS <a id="Fondamentaux"></a>
 
-## I. Terminal et système d'exploitation
+## 0. Terminal et système d'exploitation
 ### 1. Windows
 ### 2. Linux
 ### 3. MacOS
+
+## I. Algorithme
 
 ## II. Environnement de développement
 ### 1. VSCode
@@ -107,7 +118,6 @@ Ressources: [**Page web**](https://github.com/)
 - pytest
 - unitest
 - Selenium
-### 3. Faire un jeu avec pygame
 
 ## IV. Mathématiques
 ### 1. Etudes de fonction
@@ -116,8 +126,19 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# C. RECUPERATION DE DONNEES <a id="Recuperation"></a>
-## I. Scraping 
+# C. BASE DE DONNEES <a id="Recuperation"></a>
+
+## I. SQL - Bases de données relationnelles
+### 1. Langage SQL
+### 2. SQLite
+### 3. MySQL
+### 4. PostgreSQL
+
+## II. NoSQL - Bases de données non-relationnelles
+### 1. MongoDB & pymongo
+### 2. ElasticSearch
+
+## III. Scraping 
 ### 0. Bases du HTML/CSS
 ### 1. BeautifulSoup
 ### 2. Scrapy
@@ -126,38 +147,18 @@ Ressources: [**Page web**](https://github.com/)
 - Lua
 - Javascript
 
-## II. SQL - Bases de données relationnelles
-### 1. Langage SQL
-### 2. SQLite
-### 3. MySQL
-### 4. PostgreSQL
-
-## III. NoSQL - Bases de données non-relationnelles
-### 1. MongoDB & pymongo
-### 2. ElasticSearch
-
 ***
 
-# D. MANIPULATION ET NETTOYAGE DE DONNEES <a id="Cleaning"></a>
-## I. Technologies
+# D. MACHINE LEARNING <a id="Cleaning"></a>
+## 0. Technologies
 ### 1. Numpy
 ### 2. Pandas
 ### 3. Dask
 ### 4. Numba
 
-## II. Sélection de données et renommage
+## I. Cleaning
 
-## III. Traitement des doublons
-
-## IV. Traitement des valeurs manquantes
-
-## V. Traitement des types d'attributs
-
-## VI. Consistance, reformatage, valeurs aberrantes
-
-***
-
-# E. EXPLORATION DES DONNEES ET VISUALISATIONS <a id="Exploration"></a>
+## II. Analyse et visualisation
 ## I. Technologies de visualisation
 ### 1. Matplotlib
 ### 2. Seaborn
@@ -175,14 +176,13 @@ Ressources: [**Page web**](https://github.com/)
 ### 3. Corrélations entre variables quantitatives
 ### 4. Corrélations entre variables catégorielles et quantitatives
 
-***
+## III. Preprocessing
 
-# F. CHOIX DU MODELE - CHOIX DE LA METRIQUE <a id="Modelisation"></a>
-## 0. Notions
-### 1. Régularisation
-### 2. Bagging / Voting / Stacking / Boosting / Bootstraping
-### 3. Scikit-learn
-
+## IV. Choix du modèle - choix de la métrique
+### 0. Notions
+#### 1. Régularisation
+#### 2. Bagging / Voting / Stacking / Boosting / Bootstraping
+#### 3. Scikit-learn
 ## I. Machine Learning : Supervisé
 ### 1. Régression
 - Régression linéaire
@@ -194,25 +194,36 @@ Ressources: [**Page web**](https://github.com/)
 - NaiveBayes
 - SVC
 
-## II. Machine Learning : Non-supervisé
-### 1. Clustering
-### 2. Réduction de la dimensionnalité
-
-## III. Machine Learning : par Renforcement
-
-## IV. Deep Learning
-- PyTorch
-
-## V. Réseaux de neurones
-- TensorFlow
-- Keras
-
-## VI. Choix de la métrique
+## 3. Choix de la métrique
 - Recall
 - Precision
 - Accuracy
 - F1 Score
 - AUC
+
+## II. Machine Learning : Non-supervisé
+### 1. Clustering
+### 2. Réduction de la dimensionnalité
+
+## III. Machine Learning : par Renforcemen
+## VI Apprentissage et GridSearch
+
+## VI Evaluation et interpretation
+### 1. Comprendre et expliquer son modèle
+### 2. SHAP
+### 3. LIME
+### 4. PowerBI
+### 5. Tableau
+
+***
+
+# E. Deep Learning
+- PyTorch
+
+# F. Réseaux de neurones
+- TensorFlow
+- Keras
+
 
 ***
 
@@ -248,22 +259,6 @@ Ressources: [**Page web**](https://github.com/)
 
 ***
 
-# J. EVALUATION ET INTERPRETATION <a id="Evaluation"></a>
-## I. Comprendre et expliquer son modèle
-## II. SHAP
-## III. LIME
-## IV. PowerBI
-## V. Tableau
-
-***
-
-# K. MISE EN PRODUCTION <a id="Production"></a>
-## I. Microsoft Azure
-## II. AWS ( Amazon Web Services )
-## III. Google Cloud Platform
-
-***
-
 # L. API & APPLI WEB <a id="Web"></a>
 ## I. ORM (Object Relationnal Mapping)
 ### 1. SQLAlchemy
@@ -275,8 +270,17 @@ Ressources: [**Page web**](https://github.com/)
 ### 4. Flask
 
 ## IV. Déploiement
-### 0. Utiliser un Docker
-### 1. Heroku
+### 1. Microsoft Azure
+### 2. AWS ( Amazon Web Services )
+### 3. Google Cloud Platform
+### 4. Heroku
+
+## 5. Divers
+### Docker
+### Versionning : Git
+### Gihub 
+### Gitlab
+
 
 ***
 
